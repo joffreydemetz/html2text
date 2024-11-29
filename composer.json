@@ -1,0 +1,24 @@
+{
+    "name": "jdz/html2text",
+    "type": "library",
+    "description": "JDZ HTML to Text",
+    "keywords": ["JDZ","utilities","html2text"],
+    "homepage": "https://jdz.joffreydemetz.com/html2text/",
+    "version": "1.0.0",
+    "license": "MIT",
+    
+    "authors": [
+        {
+            "name": "Joffrey Demetz",
+            "email": "joffrey.demetz@gmail.com",
+            "homepage": "https://joffreydemetz.com",
+            "role": "Lead"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "JDZ\\Utils\\": "src"
+        }
+    }
+}
