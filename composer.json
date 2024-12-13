@@ -2,6 +2,7 @@
     "name": "jdz/html2text",
     "type": "library",
     "description": "JDZ HTML to Text",
+    "minimum-stability": "dev",
     "keywords": [
         "JDZ",
         "utilities",
